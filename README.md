@@ -1,6 +1,6 @@
 # Image-Caption-AI
 A cutting-edge application that leverages AI to generate creative captions for images while offering customizable filters, making visual storytelling interactive and fun.
-# Enhanced Image Caption Generator with Streamlit, Hugging Face, and PyTorch
+## Enhanced Image Caption Generator with Streamlit, Hugging Face, and PyTorch
 
 This repository features an **enhanced image captioning application** that integrates advanced AI with a sleek and intuitive user interface. Built using **Streamlit**, **Hugging Face's transformers**, and **PyTorch**, the app generates descriptive captions for uploaded images, providing a smooth and engaging user experience.
 
