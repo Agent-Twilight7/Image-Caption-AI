@@ -1,0 +1,8 @@
+[theme]
+base="light"  # Light base for a warm, glowing appearance
+primaryColor="#FF4500"  # Sunset orange as the primary accent color
+backgroundColor="#FFDAB9"  # Peach-puff background to mimic soft sunset light
+secondaryBackgroundColor="#FF7F50"  # Coral for sidebars or containers
+textColor="#2F4F4F"  # Dark slate gray for contrast and readability
+[server]
+port = 8080
